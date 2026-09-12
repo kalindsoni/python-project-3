@@ -33,7 +33,8 @@ Complete project demonstration
 
 ▶️ 🎬 Watch Explanation Video
 
-[Replace YOUR_VIDEO_LINK_HERE with your actual video link.](https://drive.google.com/file/d/1n9WQ8hr97WK6GG2bhhZr0bA2QcA6WxIv/view?usp=drivesdk)
+[Replace YOUR_VIDEO_LINK_HERE with your actual video link.]
+(https://drive.google.com/file/d/1n9WQ8hr97WK6GG2bhhZr0bA2QcA6WxIv/view?usp=drivesdk)
 
 🛠️ Technologies Used
 📦 Dictionary
